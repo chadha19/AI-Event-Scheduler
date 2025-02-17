@@ -1,4 +1,4 @@
-# SelfMaxx - Scheduling Automation App
+# SelfMaxx - Scheduling Automation Android App
 
 ## What Does It Do?
 SelfMaxx contains a chatbot that will create entire schedules for the user based on their natural language input, and these schedules integrate with Google Calendar in a single click. 
